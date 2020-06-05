@@ -3,6 +3,7 @@ Notebook for use with Denver Data Drivers, June 9th.
 
 ### Contact Info
 [website](https://tmartin.carrd.co/)
+
 [linkedin](https://www.linkedin.com/in/tpm319/)
 
 ## Instructions/Installation for use with [Colab](https://colab.research.google.com/notebooks/basic_features_overview.ipynb):
